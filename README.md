@@ -1,4 +1,3 @@
-# README
 # :blush: Hello... 
 
 :sleeping: I'll stay here with you, I'll chill.
